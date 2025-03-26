@@ -12,6 +12,7 @@ case2 :
  printf("select the course");
 case3 :
  printf("b.tech ECE");
+ printf("select the course");
 case4 :
  printf("b.tech MEC");
 
