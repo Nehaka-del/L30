@@ -9,6 +9,7 @@ case1 :
  printf("select the course");
 case2 :
  printf("b.tech AIML");
+ printf("select the course");
 case3 :
  printf("b.tech ECE");
 case4 :
