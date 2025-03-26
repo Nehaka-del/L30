@@ -6,6 +6,7 @@ int courses;
 
 case1 :
  printf("b.tech CSE");
+ printf("select the course");
 case2 :
  printf("b.tech AIML");
 case3 :
