@@ -10,4 +10,6 @@ case2 :
  printf("b.tech AIML");
 case3 :
  printf("b.tech ECE");
+case4 :
+ printf("b.tech MEC");
 
