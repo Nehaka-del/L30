@@ -6,4 +6,6 @@ int courses;
 
 case1 :
  printf("b.tech CSE");
+case2 :
+ printf("b.tech AIML");
 
